@@ -37,7 +37,7 @@ export const Header = ({ isSidebarOpen, setIsSidebarOpen, setCurrentView }: Head
         <div className="h-10 w-px bg-surface-container-high mx-2 hidden sm:block" />
         <div className="flex items-center gap-4 pl-2 group cursor-pointer">
           <div className="text-right hidden sm:block">
-            <p className="text-[13px] font-bold leading-none text-on-surface">Alexandre D.</p>
+            <p className="text-[13px] font-bold leading-none text-on-surface">Dominique Nono.</p>
             <p className="text-[9px] text-on-surface-variant font-semibold uppercase tracking-wider mt-1">Administrateur</p>
           </div>
           <div className="relative">
